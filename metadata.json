@@ -1,0 +1,9 @@
+{
+  "name": "Kovu",
+  "symbol": "$KOVU",
+  "description": "My custom Solana token.",
+  "image": "https://raw.githubusercontent.com/dudetonic/token-metadata/37168e96690610fea2fafeddf96696ba9bf6491c/logo.jpg",
+  "extensions": {
+    "website": "https://kovu.fun"
+  }
+}
